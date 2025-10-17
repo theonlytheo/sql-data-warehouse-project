@@ -5,6 +5,6 @@ This **Data Warehouse and Analytics Project** demonstrates a comprehensive data 
 
 ---
 ## 🏗️ Data Architecture
-
+https://www.youtube.com/
 The data architecture for this project follows Medallion Architecture that consist **Bronze**, **Silver**, and **Gold** layers:
-
+![Data Architecture](docs/Diagram-Data Architecture.drawio.png)
