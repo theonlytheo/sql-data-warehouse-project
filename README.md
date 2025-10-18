@@ -38,7 +38,7 @@ This projects is containing:
 - **[Git_Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design diagram data architecture, models, and flows
 - **[Notion](https://www.notion.com/):** Make the planning by notion
-- **[Notion](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Notion template planning by Data with Baraa
+- **[Notion Planning Template](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Notion template planning by Data with Baraa
 
 ---
 
